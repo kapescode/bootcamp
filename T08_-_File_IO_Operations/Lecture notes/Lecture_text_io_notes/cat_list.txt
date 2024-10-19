@@ -1,0 +1,23 @@
+sally
+james
+harry
+bob
+smokey
+tommmy
+spike
+kitty
+lenny
+Dawggy
+happy
+rocco
+johnomitsyjohnojamesdoggy
+king
+['mitsy', 'johno', 'james', 'doggy']
+['mitsy', 'johno', 'james', 'doggy']
+['mitsy', 'johno', 'james', 'doggy']
+['mitsy', 'johno', 'james', 'doggy']
+yipp
+mitsy
+johno
+james
+doggy
